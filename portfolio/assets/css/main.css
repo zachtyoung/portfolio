@@ -3890,3 +3890,10 @@ input, select, textarea {
 			}
 
 		}
+		.inner span{
+			color: aliceblue;
+			font-weight: 500;
+		}
+		.image{
+			margin: 25px;
+		}
